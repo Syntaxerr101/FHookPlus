@@ -40,7 +40,7 @@ FHook+: A dynamic instrumentation tool powered by Frida. To inject custom script
 
 ## 💬 Support
 
-If you encounter any issues or have questions about TGɾαɱHσσƙʂ, join our [Telegram Channel](https://t.me/fhookplus) or submit an issue on [GitHub](https://github.com/Syntaxerr101/FHookPlus/issues).
+If you encounter any issues or have questions about Fhook+, join our [Telegram Channel](https://t.me/fhookplus) or submit an issue on [GitHub](https://github.com/Syntaxerr101/FHookPlus/issues).
 
 ## ⭐ Contributing
 
