@@ -5,7 +5,6 @@
 
 # FHook+
 
-![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)
 
