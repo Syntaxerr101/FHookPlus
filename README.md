@@ -24,15 +24,12 @@ FHook+: A dynamic instrumentation tool powered by Frida. To inject custom script
 
 ## Screenshots
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232953_125.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232952_211.jpg" width="45%" />
   <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232953_121.jpg" width="45%" /> 
 </p>
 <p float="left">
   <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232953_062.jpg" width="45%" />
   <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232952_242.jpg" width="45%" />
-</p>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/IMG_20240216_232952_211.jpg" width="45%" />
 </p>
 
 ## Support
