@@ -23,7 +23,7 @@ FHook+: A dynamic instrumentation tool powered by Frida. To inject custom script
 
 - ROOT ACCESS.
 
-## External libraries used in the project
+## imported library
 
 - https://github.com/csdn-mobile/CodeView
 
