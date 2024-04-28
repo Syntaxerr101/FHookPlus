@@ -16,7 +16,7 @@ FHook+: A dynamic instrumentation tool powered by Frida. To inject custom script
 ## Features
 - import frida inject binaries (ex: frida inject, hluda inject, ...)
 - import Javascript files.
-- Automatically inject frida scripts to a specific package name.
+- Automatically inject frida scripts to a specific package name process.
 - More features soon ..
 
 ## Requirements
