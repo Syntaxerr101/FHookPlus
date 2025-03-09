@@ -56,13 +56,6 @@ Whether you're a security researcher, developer, or reverse engineer, FHook+ sim
 
 ---
 
-## Getting Started
-
-1. **Install Dependencies**: Ensure you have Frida installed on your device. If not, follow the official [Frida installation guide](https://frida.re/docs/installation/).
-2. **Launch FHook+**: Open the app and follow the on-screen instructions to inject binaries and scripts.
-
----
-
 ## Usage
 
 1. **Import Frida Binaries**:
