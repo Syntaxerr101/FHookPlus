@@ -94,6 +94,6 @@ For support, bug reports, or feature requests, please:
 
 ---
 
-🛠️ **Made with ❤️ by Simo 🇲🇦**
+🛠️ **Made with fun by Simo 🇲🇦**
 
 ---
