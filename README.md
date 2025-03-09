@@ -90,12 +90,6 @@ For support, bug reports, or feature requests, please:
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to FHook+, please:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
-
 **Star the repository** ⭐ if you find FHook+ useful!
 
 ---
