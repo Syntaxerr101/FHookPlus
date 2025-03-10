@@ -15,9 +15,9 @@
 ## Key Features:
 
 - **Binary and Script Management**:
-  - **Frida Binary Manager**: Import and manage multiple frida-inject binaries.
-  - **Script Manager**: Easily import, view scripts for injection.
-- **User-Friendly Interface**: Better UI for effortless navigation and operations.
+  - **Frida Binary Manager**: Import/delete frida-inject binaries.
+  - **Script Manager**: Easily import, view scripts.
+- **User-Friendly Interface**: Better UI.
 
 ---
 
@@ -43,16 +43,17 @@
 ## Usage:
 
 1. **Import Frida Binaries**:
-   - Navigate to the **Settings** menu.
-   - Use the **Frida Binary Manager** to import your preferred Frida binaries (e.g., Frida inject, HLuda inject, etc.).
+   - Navigate to the **Settings** tab.
+   - Use the **Frida Manager** to import/delete frida inject binaries (e.g., Frida inject, Hluda inject, etc ...).
 2. **Import Scripts**:
    - Go to the **Script Manager** in the settings.
-   - Import and organize your custom JavaScript files for dynamic analysis.
+   - Import/View/Delete custom JavaScript files.
 3. **Select Target App**:
-   - From the main interface, select the app you want to analyze by its package name.
+   - From the Home tab, add an app.
 4. **Run Injection**:
-   - Choose the desired Frida binary and script from the dropdown menus.
-   - Click **Inject** to start the dynamic analysis process.
+   - Select frida binary and a script from the dropdown menus.
+   - Click **START** to start the process injection.
+   - Click **DELETE** to delete the current config.
 
 ---
 
