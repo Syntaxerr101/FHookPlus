@@ -26,13 +26,10 @@ FHook+ is a powerful tool that leverages **Frida inject binary** to inject custo
 
 ## Key Features
 
-- **Frida Binary Injection**: Seamlessly inject Frida binaries into target processes.
-- **Script Execution**: Import and run custom JavaScript scripts for dynamic analysis.
-- **App Targeting**: Select a specific app by its package name and inject Frida with your chosen script.
 - **Binary and Script Management**:
   - **Frida Binary Manager**: Import and manage multiple frida-inject binaries.
   - **Script Manager**: Easily import, view scripts for injection.
-- **User-Friendly Interface**: Intuitive UI for effortless navigation and operation.
+- **User-Friendly Interface**: Better UI for effortless navigation and operations.
 
 ---
 
