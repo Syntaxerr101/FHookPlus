@@ -1,6 +1,6 @@
 <div align="center">
 
-# FHook+
+# **fhook+**
 
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)
@@ -12,7 +12,7 @@
 
 ---
 
-## Key Features
+## Key Features:
 
 - **Binary and Script Management**:
   - **Frida Binary Manager**: Import and manage multiple frida-inject binaries.
@@ -21,13 +21,13 @@
 
 ---
 
-## Requirements
+## Requirements:
 
 - **Root Access**: FHook+ requires root access to perform injections and interact with processes.
 
 ---
 
-## Screenshots
+## Screenshots:
 
 <p float="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
@@ -40,7 +40,7 @@
 
 ---
 
-## Usage
+## Usage:
 
 1. **Import Frida Binaries**:
    - Navigate to the **Settings** menu.
@@ -56,7 +56,7 @@
 
 ---
 
-## Support
+## Support:
 
 For support, bug reports, or feature requests, please:
 
@@ -65,16 +65,16 @@ For support, bug reports, or feature requests, please:
 
 ---
 
-## Contributing
+## Contributing:
 
 **Star the repository** ⭐ if you find FHook+ useful!
 
 ---
 
-## Credits
+## Credits:
 
-- **Frida**: The backbone of FHook+. Learn more at [frida.re](https://frida.re).
-- **CodeView Library**: Used for enhancing the UI. Check it out [here](https://github.com/csdn-mobile/CodeView).
+- **Frida**: The backbone of FHook+. Learn more at [frida.re](https://frida.re). 🤩
+- **CodeView Library**: Used for enhancing the UI. Check it out. [here](https://github.com/csdn-mobile/CodeView).
 
 ---
 
