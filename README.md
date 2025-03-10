@@ -16,7 +16,7 @@
 
 - **Binary and Script Management**:
   - **Frida Manager**: Import/delete frida-inject binaries.
-  - **Script Manager**: Easily import, view scripts.
+  - **Script Manager**: Import/delete/view scripts.
 - **Automatically start frida injection**.
 - **User-Friendly Interface**: Better UI.
 
