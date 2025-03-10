@@ -12,18 +12,6 @@
 
 ---
 
-## Overview
-
-FHook+ is a powerful tool that leverages **Frida inject binary** to inject custom scripts into running processes, allowing for dynamic analysis and security testing. With FHook+, you can:
-
-- **Inject Frida binaries** (e.g., Frida inject, Hluda inject, etc.), note that fhook+ is compatible only with frida-inject binaries.
-- **Import and execute custom JavaScript scripts**.
-- **Automatically inject scripts** into a specific app process by its package name.
-- **Manage Frida binaries and scripts** through an intuitive settings interface.
-
-
----
-
 ## Key Features
 
 - **Binary and Script Management**:
