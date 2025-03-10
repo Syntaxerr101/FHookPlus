@@ -6,7 +6,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)
 
-**FHook+**: A dynamic instrumentation tool powered by **Frida**, designed for on-the-fly injection of custom scripts to enable dynamic analysis, debugging, and security testing.
+**FHook+**: A dynamic instrumentation tool powered by **Frida INJECT binary**, designed for on-the-fly injection of custom scripts to enable dynamic analysis, debugging, and security testing.
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## Overview
 
-FHook+ is a powerful tool that leverages **Frida** to inject custom scripts into running processes, allowing for dynamic analysis and security testing. With FHook+, you can:
+FHook+ is a powerful tool that leverages **Frida inject binary** to inject custom scripts into running processes, allowing for dynamic analysis and security testing. With FHook+, you can:
 
-- **Inject Frida binaries** (e.g., Frida inject, HLuda inject, etc.).
+- **Inject Frida binaries** (e.g., Frida inject, Hluda inject, etc.), note that fhook+ is compatible only with frida-inject binaries.
 - **Import and execute custom JavaScript scripts**.
 - **Automatically inject scripts** into a specific app process by its package name.
 - **Manage Frida binaries and scripts** through an intuitive settings interface.
