@@ -15,8 +15,9 @@
 ## Key Features:
 
 - **Binary and Script Management**:
-  - **Frida Binary Manager**: Import/delete frida-inject binaries.
+  - **Frida Manager**: Import/delete frida-inject binaries.
   - **Script Manager**: Easily import, view scripts.
+- **Automatically start frida injection***.
 - **User-Friendly Interface**: Better UI.
 
 ---
