@@ -21,7 +21,6 @@ FHook+ is a powerful tool that leverages **Frida inject binary** to inject custo
 - **Automatically inject scripts** into a specific app process by its package name.
 - **Manage Frida binaries and scripts** through an intuitive settings interface.
 
-Whether you're a security researcher, developer, or reverse engineer, FHook+ simplifies the process of dynamic instrumentation and analysis.
 
 ---
 
@@ -31,8 +30,8 @@ Whether you're a security researcher, developer, or reverse engineer, FHook+ sim
 - **Script Execution**: Import and run custom JavaScript scripts for dynamic analysis.
 - **App Targeting**: Select a specific app by its package name and inject Frida with your chosen script.
 - **Binary and Script Management**:
-  - **Frida Binary Manager**: Import and manage multiple Frida binaries.
-  - **Script Manager**: Easily import, organize, and select scripts for injection.
+  - **Frida Binary Manager**: Import and manage multiple frida-inject binaries.
+  - **Script Manager**: Easily import, view scripts for injection.
 - **User-Friendly Interface**: Intuitive UI for effortless navigation and operation.
 
 ---
@@ -45,11 +44,11 @@ Whether you're a security researcher, developer, or reverse engineer, FHook+ sim
 
 ## Screenshots
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
   <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/2.png" width="46%" /> 
 </p>
-<p float="left">
+<p float="center">
   <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/3.png" width="46%" />
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/4.png" width="46%" />
 </p>
