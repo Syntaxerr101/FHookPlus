@@ -46,10 +46,10 @@ FHook+ is a powerful tool that leverages **Frida inject binary** to inject custo
 
 <p float="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
-  <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/2.png" width="46%" /> 
+  <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/2.png" width="46%" /> 
 </p>
 <p float="center">
-  <img src="https://raw.githubusercontent.com/Syntaxerr101/FHookPlus/main/3.png" width="46%" />
+  <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/3.png" width="46%" />
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/4.png" width="46%" />
 </p>
 
