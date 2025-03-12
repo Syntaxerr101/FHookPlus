@@ -1,85 +1,82 @@
 <div align="center">
 
-# **fhook+**
+# **fhook+**  
 
-![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)
-![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)  
+![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)  
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)  
 
-**FHook+**: A dynamic instrumentation tool powered by **Frida INJECT binary**, designed for on-the-fly injection of custom scripts to enable dynamic analysis, debugging, and security testing.
+**fhook+** is a dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing.  
 
-</div>
-
----
-
-## Key Features:
-
-- **Binary and Script Management**:
-  - **Frida Manager**: Import/delete frida-inject binaries.
-  - **Script Manager**: Import/delete/view scripts.
-- **Automatically start frida injection**.
-- **User-Friendly Interface**: Better UI.
+</div>  
 
 ---
 
-## Requirements:
+## ✨ Features  
 
-- **Root Access**: FHook+ requires root access to perform injections and interact with processes.
+- **Frida Manager**: Easily import and manage Frida inject binaries.  
+- **Script Manager**: Organize scripts—import, rename, view, or delete.  
+- **Auto Injection**: Start Frida injection automatically.  
+- **Hacker-Style UI**: Green/Black.  
 
 ---
 
-## Screenshots:
+## ⚙️ Requirements  
 
-<p float="center">
+- **Root Access**: fhook+ requires root permissions to inject scripts and interact with processes.  
+
+---
+
+## 📸 Screenshots  
+
+<p align="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
-  <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/2.png" width="46%" /> 
-</p>
-<p float="center">
+  <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/2.png" width="46%" />  
+</p>  
+<p align="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/3.png" width="46%" />
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/4.png" width="46%" />
-</p>
+</p>  
 
 ---
 
-## Usage:
+## 🚀 Usage  
 
-1. **Import Frida Binaries**:
-   - Navigate to the **Settings** tab.
-   - Use the **Frida Manager** to import/delete frida inject binaries (e.g., Frida inject, Hluda inject, etc ...).
-2. **Import Scripts**:
-   - Go to the **Script Manager** in the settings.
-   - Import/View/Delete custom JavaScript files.
-3. **Select Target App**:
-   - From the Home tab, add an app.
-4. **Run Injection**:
-   - Select frida binary and a script from the dropdown menus.
-   - Click **START** to start the process injection.
-   - Click **DELETE** to delete the current config.
+1. **Setup Frida Binaries**  
+   - Open **Settings** → **Frida Manager**.  
+   - Import or remove Frida inject binaries (e.g., Frida Inject, Hluda Inject, etc.).  
 
----
+2. **Manage Scripts**  
+   - In **Script Manager**, import, view, rename, or delete JavaScript scripts.  
 
-## Support:
+3. **Target an App**  
+   - Add an app from the **Home** tab.  
 
-For support, bug reports, or feature requests, please:
-
-- Join our [Telegram Channel](https://t.me/fhookplus).
-- Open an issue on [GitHub](https://github.com/Syntaxerr101/FHookPlus/issues).
+4. **Inject a Script**  
+   - Select a Frida binary and script from the dropdown.  
+   - Click **START** to injection.  
+   - Click **DELETE** to remove the current configuration.  
 
 ---
 
-## Contributing:
+## 🤝 Support  
 
-**Star the repository** ⭐ if you find FHook+ useful!
-
----
-
-## Credits:
-
-- **Frida**: The backbone of FHook+. Learn more at [frida.re](https://frida.re). 🤩
-- **CodeView Library**: Used for enhancing the UI. Check it out. [here](https://github.com/csdn-mobile/CodeView).
+- Join our [Telegram Channel](https://t.me/fhookplus) for discussions.  
+- Report bugs or request features via [GitHub Issues](https://github.com/Syntaxerr101/FHookPlus/issues).  
 
 ---
 
-🛠️ **Made with fun by Simo 🇲🇦**
+## 💡 Contributing  
+
+Found FHook+ useful? **Star the repo** ⭐ and help improve it!  
 
 ---
+
+## 🎖️ Credits  
+
+- **[Frida](https://frida.re)** – The core of fhook+.  
+- **[CodeView Library](https://github.com/csdn-mobile/CodeView)** – Enhancing the UI.  
+
+---
+
+🛠️ **Made with passion by Simo 🇲🇦**
