@@ -2,9 +2,7 @@
 
 # **fhook+**  
 
-![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)  
-![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)  
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)  
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)  ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus)  
 
 **fhook+** is a dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing.  
 
