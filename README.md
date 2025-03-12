@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Features  
+## Features:
 
 - **Frida Manager**: Easily import and manage Frida inject binaries.  
 - **Script Manager**: Organize scripts—import, rename, view, or delete.  
@@ -19,13 +19,13 @@
 
 ---
 
-## ⚙️ Requirements  
+## Requirements: 
 
 - **Root Access**: fhook+ requires root permissions to inject scripts and interact with processes.  
 
 ---
 
-## 📸 Screenshots  
+## Screenshots:  
 
 <p align="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Usage  
+## Usage: 
 
 1. **Setup Frida Binaries**  
    - Open **Settings** → **Frida Manager**.  
@@ -57,24 +57,24 @@
 
 ---
 
-## 🤝 Support  
+## Support: 
 
 - Join our [Telegram Channel](https://t.me/fhookplus) for discussions.  
 - Report bugs or request features via [GitHub Issues](https://github.com/Syntaxerr101/FHookPlus/issues).  
 
 ---
 
-## 💡 Contributing  
+## Contributing: 
 
 Found FHook+ useful? **Star the repo** ⭐ and help improve it!  
 
 ---
 
-## 🎖️ Credits  
+## Credits:  
 
 - **[Frida](https://frida.re)** – The core of fhook+.  
 - **[CodeView Library](https://github.com/csdn-mobile/CodeView)** – Enhancing the UI.  
 
 ---
 
-🛠️ **Made with passion by Simo 🇲🇦**
+🛠️ **Made with fun by Simo 🇲🇦**
