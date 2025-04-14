@@ -52,21 +52,21 @@
 
 4. **Inject a Script**  
    - Select a Frida binary and script from the dropdown.  
-   - Click **START** to injection.  
-   - Click **DELETE** to remove the current configuration.  
+   - Click **START** to start injection.  
+   - Click **DELETE** to delete the current configuration.  
 
 ---
 
 ## Support: 
 
-- Join our [Telegram Channel](https://t.me/fhookplus) for discussions.  
-- Report bugs or request features via [GitHub Issues](https://github.com/Syntaxerr101/FHookPlus/issues).  
+- Join our [Telegram Channel](https://t.me/fhookplus).  
+- Report bugs via [GitHub Issues](https://github.com/Syntaxerr101/FHookPlus/issues).  
 
 ---
 
 ## Contributing: 
 
-Found FHook+ useful? **Star the repo** ⭐ and help improve it!  
+Found fhook+ useful? **Star the repo** ⭐!  
 
 ---
 
@@ -74,7 +74,8 @@ Found FHook+ useful? **Star the repo** ⭐ and help improve it!
 
 - **[Frida](https://frida.re)** – The core of fhook+.  
 - **[CodeView Library](https://github.com/csdn-mobile/CodeView)** – Enhancing the UI.  
+- **[ChatGPT](https://chatgpt.com/)** – For the best support in coding. 
 
 ---
 
-🛠️ **Made with fun by Simo 🇲🇦**
+🛠️ **Made with fun by Simo 🇲🇦 🇵🇸 **
