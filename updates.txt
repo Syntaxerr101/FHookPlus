@@ -1,4 +1,4 @@
 {
   "latest_version": "1.0.4",
-  "change_logs": "Better release, check channel .."
+  "change_logs": "\n🟢 Better release"
 }
