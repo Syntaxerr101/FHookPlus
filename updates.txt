@@ -1,4 +1,1 @@
-{
-  "latest_version": "1.0.4",
-  "change_logs": "check github or telegram channel https://t.me/fhookplus"
-}
+{  "latest_version": "1.0.4",  "latest_version": "1.0.2",  "change_logs": "- Better update."}
