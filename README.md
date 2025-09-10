@@ -1,6 +1,6 @@
 # <div align="center"> **fhook+**  </div>
 
-<div align="center">
+<div >
 
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total)  
 ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)  
