@@ -1,4 +1,4 @@
 {
-  "latest_version": "1.0.4beta",
-  "change_logs": "Update 1.0.4beta:\n- You can now select multiple scripts.\n- Better logs manager.\n- Better script viewer.\n- Frida-inject latest version downloader.\nReport any issues on telegram channel.\nhttps://t.me/fhookplus"
+  "latest_version": "1.0.4",
+  "change_logs": "check github or telegram channel https://t.me/fhookplus"
 }
