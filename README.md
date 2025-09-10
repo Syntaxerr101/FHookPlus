@@ -1,4 +1,4 @@
-# **fhook+** - Dynamic Instrumentation Tool  
+# **fhook+**  
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 - **Frida Manager**: Download and import Frida inject binaries for your architectures.  
 - **Script Manager**: Import, edit, rename, view, and delete.  
 - **Auto Injection**: Start Frida injection automatically on app launch.  
-- **Multi-Architecture Support**: Compatible with ARM, ARM64, x86, and x86_64. (You can use built-in downloader to latest frida inject release).
+- **Multi-Architecture Support**: Compatible with ARM, ARM64, x86, and x86_64. (You can use built-in downloader for latest frida inject release).
 
 ---
 
