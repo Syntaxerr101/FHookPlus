@@ -47,7 +47,7 @@
 
 1. Download the latest APK from the [Releases](https://github.com/Syntaxerr101/FHookPlus/releases) section.  
 2. Install the APK on your rooted Android device.  
-3. Launch **fhook+** and grant root permissions when prompted.  
+3. Launch **ƒɦσσҡ+** and grant root permissions when prompted.  
 4. Download or import frida binaries and scripts via settings >> managers.  
 5. Select frida and the script then start injecting scripts!
 
@@ -62,7 +62,7 @@
 
 ## 🤝 Contributing  
 
-Found **fhook+** useful? **Star the repo** ⭐!  
+Found **ƒɦσσҡ+** useful? **Star the repo** ⭐!  
 
 ---
 
