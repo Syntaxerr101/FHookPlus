@@ -7,7 +7,7 @@
 </div>
 <div align="left" >
 
-**fhook+** is a powerful dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing.  
+**fhook+** is a dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing.  
 
 </div>  
 
