@@ -73,4 +73,4 @@ Found **fhook+** useful? **Star the repo** ⭐!
 
 ---
 
-** Made with fun by Simo 🇲🇦 🇵🇸 **
+** Made with fun by Simo ** 🇲🇦 🇵🇸
