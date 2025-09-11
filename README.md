@@ -7,13 +7,14 @@
 </div>
 <div align="left" >
 
-**fhook+** is a dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing (One-click injection tool).
+**fhook+** is a dynamic instrumentation tool powered by **Frida INJECT binary**, designed for seamless on-the-fly injection of custom scripts for dynamic analysis, debugging, and security testing.
+- One-click injection tool.
 
 </div>  
 
 ---
 
-## ✨ Features  
+## - Features  
 
 - **Frida Manager**: Download and import Frida inject binaries for your architectures.  
 - **Script Manager**: Import, edit, rename, view, and delete.  
@@ -22,13 +23,13 @@
 
 ---
 
-## ⚙️ Requirements  
+## - Requirements  
 
 - **Root Access**: Required for injecting scripts and interacting with processes.
 
 ---
 
-## 📸 Screenshots  
+## - Screenshots  
 
 <p align="center">
   <img src="https://github.com/Syntaxerr101/FHookPlus/blob/main/1.png" width="46%" />
@@ -41,7 +42,7 @@
 
 ---
 
-## 🛠️ Installation  
+## - Installation  
 
 1. Download the latest APK from the [Releases](https://github.com/Syntaxerr101/FHookPlus/releases) section.  
 2. Install the APK on your rooted Android device.  
@@ -51,7 +52,7 @@
 
 ---
 
-## ❓ Support  
+## - Support  
 
 - Join our [Telegram Channel](https://t.me/fhookplus) for updates and discussions.  
 - Report bugs or request features via [GitHub Issues](https://github.com/Syntaxerr101/FHookPlus/issues).  
@@ -64,7 +65,7 @@ Found **fhook+** useful? **Star the repo** ⭐!
 
 ---
 
-## 📜 Credits  
+## - Credits  
 
 - **[Frida](https://frida.re)** – The core of fhook+.  
 - **[CodeView Library](https://github.com/csdn-mobile/CodeView)** – Enhancing the UI.  
@@ -72,4 +73,4 @@ Found **fhook+** useful? **Star the repo** ⭐!
 
 ---
 
-Made with fun by Simo 🇲🇦 🇵🇸  
+** Made with fun by Simo 🇲🇦 🇵🇸 **
