@@ -2,7 +2,7 @@
 
 <div align="center" >
 
-![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total) ![GitHub Stars](https://img.shields.io/github/stars/Syntaxerr101/FHookPlus)  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/FHookPlus)  
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/FHookPlus/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/fhookplus) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/FHookPlus)  
 
 </div>
 <div align="left" >
