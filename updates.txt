@@ -1,4 +1,4 @@
 {
-  "latest_version": "1.0.4",
-  "change_logs": "\n🟢 Better release"
+  "latest_version": "1.0.5",
+  "change_logs": "\n- bugs fixed."
 }
